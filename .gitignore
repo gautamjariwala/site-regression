@@ -1,3 +1,37 @@
 .metadata/
 .metadata/.log
 .metadata/.plugins/org.eclipse.core.resources/.history/e7/30da0682a576001a1b50fdfa321e5c81
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+.metadata/.log
+.metadata/.mylyn/.tasks.xml.zip
+.metadata/.plugins/org.eclipse.core.resources/.projects/site-regression/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/0.snap
+.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+.metadata/.log
+.metadata/.mylyn/.tasks.xml.zip
+.metadata/.mylyn/tasks.xml.zip
+.metadata/.plugins/org.eclipse.core.resources/.projects/site-regression/.indexes/e4/b9/22/history.index
+.metadata/.plugins/org.eclipse.core.resources/.projects/site-regression/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/0.snap
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png
+.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png
+.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png
+.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png
+.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1.cfs
+.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+site-regression/test-output/Default suite/Default test.html
+site-regression/test-output/Default suite/Default test.xml
+site-regression/test-output/emailable-report.html
+site-regression/test-output/index.html
+site-regression/test-output/junitreports/TEST-com.llbean.theinternet.PositiveTests.xml
+site-regression/test-output/old/Default suite/methods-alphabetical.html
+site-regression/test-output/old/Default suite/methods.html
+site-regression/test-output/testng-results.xml
