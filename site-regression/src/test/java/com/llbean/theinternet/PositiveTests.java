@@ -44,27 +44,18 @@ public class PositiveTests {
 
 		// logout button is visible
 		WebElement logoutButton = driver.findElement(By.cssSelector(".icon-2x.icon-signout"));
-		Assert.assertTrue(logoutButton.isDisplayed(), "Logout Button is not displayed");;
-		//System.out.println("logout button is displayed: " + logoutButton);
+		// Assert.assertTrue(logoutButton.isDisplayed(), "Logout Button is not
+		// displayed");;
+		// System.out.println("logout button is displayed: " + logoutButton);
 
 		// succesful login message
 		WebElement successfulMessage = driver.findElement(By.cssSelector("h2"));
 		String expectedSuccessfulMessage = "Secure Area";
 		String actualSuccessfulMessage = successfulMessage.getText();
 		Assert.assertEquals(actualSuccessfulMessage, expectedSuccessfulMessage, "This is not logged In screen");
-		
 
 		// Close browser
 		driver.quit();
 
-	}
-
-	private void sleep(long m) {
-		try {
-			Thread.sleep(m);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 	}
 }
